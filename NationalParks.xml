@@ -122,5 +122,17 @@
             <Zip>04609</Zip>
         </Address>
     </NationalPark>
+
+    <NationalPark Rating="4.8">
+        <Name>Glacier</Name>
+        <Phone>406-888-7800</Phone>
+        <Address NearestAirport="Glacier Park Airport">
+            <Number>63</Number>
+            <Street>Grinnell Drive</Street>
+            <City>West Glacier</City>
+            <State>MT</State>
+            <Zip>59936</Zip>
+        </Address>
+    </NationalPark>
     
 </NationalParks>
