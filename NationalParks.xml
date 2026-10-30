@@ -2,7 +2,7 @@
 <NationalParks>
     <NationalPark Rating="4.9">
         <Name>Grand Canyon</Name>
-        <Phone>928-638-7496 </Phone>
+        <Phone>928-638-7496</Phone>
         <Phone>888-297-2757</Phone>
         <Phone>866-499-2574</Phone>
         <Address NearestAirport="FlagStaff">
@@ -20,7 +20,7 @@
         <Address NearestAirport="Jackson Hole Airport">
             <Number>1</Number>
             <Street>Yellowstone Avenue</Street>
-            <City>Yellowstone National Park </City>
+            <City>Yellowstone National Park</City>
             <State>WY</State>
             <Zip>82190</Zip>
         </Address>
@@ -29,7 +29,7 @@
     <NationalPark Rating="4.6">
         <Name>Zion</Name>
         <Phone>435-772-3256</Phone>
-        <Address NearestAirport="St George Reigonal Airport">
+        <Address NearestAirport="St George Regional Airport">
             <Number>1</Number>
             <Street>Zion Park Boulevard</Street>
             <City>Springdale</City>
@@ -89,7 +89,7 @@
     <NationalPark>
         <Name>Saguaro</Name>
         <Phone>520-733-5153</Phone>
-        <Address NearestAirport="Tucson Internation Airport">
+        <Address NearestAirport="Tucson Internationl Airport">
             <Number>3693</Number>
             <Street>South Old Spanish Trail</Street>
             <City>Tucson</City>
