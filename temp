@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema
-	xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="https://tanishi29.github.io/nationalparks"
+	xmlns:np="https://tanishi29.github.io/nationalparks"
+    elementFormDefault="qualified">
 	<xs:element name="NationalParks">
 		<xs:complexType>
 			<xs:sequence>
