@@ -17,6 +17,7 @@
     <NationalPark Rating="4.8">
         <Name>Yellowstone</Name>
         <Phone>307-344-7381</Phone>
+        <Phone>307-344-2117</Phone>
         <Address NearestAirport="Jackson Hole Airport">
             <Number>1</Number>
             <Street> Yellowstone Avenue</Street>
